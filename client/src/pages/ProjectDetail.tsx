@@ -24,7 +24,7 @@ export default function ProjectDetail() {
 
 The system includes over 1025 automated tests ensuring reliability and zero regressions. It integrates seamlessly with major platforms like Meta, Mercado Pago, PayPal, and WhatsApp using OAuth 2.0 and secure webhooks.`,
       tags: ["Node.js", "Express", "SQLite", "DDD", "TDD", "OAuth", "AI", "Microservices", "Event-Driven"],
-      githubUrl: "https://github.com/Rothie7/meyrelles-aura-mvp",
+      githubUrl: "https://github.com/Rothie7/Rotiehproject",
       icon: Server,
       features: [
         "Multi-tenancy architecture with complete data isolation",

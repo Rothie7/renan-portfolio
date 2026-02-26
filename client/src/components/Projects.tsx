@@ -10,7 +10,7 @@ export default function Projects() {
       description: "A comprehensive business management platform with 8 DDD domains, 1025+ automated tests, and AI-driven insights. Features multi-tenancy, OAuth, and secure payment integrations.",
       tags: ["Node.js", "Express", "SQLite", "DDD", "TDD", "OAuth", "AI"],
       image: "/rotieh-project.png",
-      githubUrl: "https://github.com/Rothie7/meyrelles-aura-mvp",
+      githubUrl: "https://github.com/Rothie7/Rotiehproject",
       slug: "rotieh",
     },
     {
