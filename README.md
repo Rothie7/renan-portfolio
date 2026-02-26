@@ -60,7 +60,7 @@ Pushes to `main` automatically trigger a GitHub Actions workflow that builds and
 ## Contact
 
 - **Email:** renanfernandes@poli.ufrj.br
-- **LinkedIn:** [linkedin.com/in/renan-fernandes](https://linkedin.com/in/renan-fernandes)
+- **LinkedIn:** [linkedin.com/in/renan-fernandes-355176187](https://linkedin.com/in/renan-fernandes-355176187)
 - **GitHub:** [github.com/Rothie7](https://github.com/Rothie7)
 
 ## License

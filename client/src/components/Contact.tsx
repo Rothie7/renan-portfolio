@@ -27,7 +27,7 @@ export default function Contact() {
         </div>
         <div className="flex-1 flex flex-col items-center gap-8 md:items-end">
           <div className="flex gap-4">
-            <a href="https://linkedin.com/in/renan-fernandes" target="_blank" rel="noopener noreferrer" className="p-4 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors">
+            <a href="https://www.linkedin.com/in/renan-fernandes-355176187/" target="_blank" rel="noopener noreferrer" className="p-4 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors">
               <Linkedin className="h-6 w-6" />
             </a>
             <a href="https://github.com/Rothie7" target="_blank" rel="noopener noreferrer" className="p-4 rounded-full bg-primary/10 text-primary hover:bg-primary/20 transition-colors">

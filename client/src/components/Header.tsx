@@ -50,7 +50,7 @@ export default function Header() {
             </a>
           </Button>
           <Button variant="ghost" size="icon" asChild className="hidden sm:inline-flex">
-            <a href="https://linkedin.com/in/renan-fernandes" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/renan-fernandes-355176187/" target="_blank" rel="noopener noreferrer">
               <Linkedin className="h-5 w-5" />
               <span className="sr-only">LinkedIn</span>
             </a>
@@ -91,7 +91,7 @@ export default function Header() {
               <a href="https://github.com/Rothie7" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
                 <Github className="h-5 w-5" />
               </a>
-              <a href="https://linkedin.com/in/renan-fernandes" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.linkedin.com/in/renan-fernandes-355176187/" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
             </div>

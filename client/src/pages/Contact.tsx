@@ -20,9 +20,9 @@ export default function Contact() {
                 <Mail className="h-6 w-6" />
                 renanfernandes@poli.ufrj.br
               </a>
-              <a href="https://linkedin.com/in/renan-fernandes" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-lg text-muted-foreground hover:text-primary transition-colors">
+              <a href="https://www.linkedin.com/in/renan-fernandes-355176187/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-lg text-muted-foreground hover:text-primary transition-colors">
                 <Linkedin className="h-6 w-6" />
-                linkedin.com/in/renan-fernandes
+                linkedin.com/in/renan-fernandes-355176187
               </a>
               <a href="https://github.com/Rothie7" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-lg text-muted-foreground hover:text-primary transition-colors">
                 <Github className="h-6 w-6" />
